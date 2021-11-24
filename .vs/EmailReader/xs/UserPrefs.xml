@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{1D61BC69-F63E-4FAC-A3B7-FAEF017A22EC}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmailReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewModels/EmailMessage.cs">
+    <Files>
+      <File FileName="Controllers/MailController.cs" Line="32" Column="77" />
+      <File FileName="Services/MailReader/MailReader.cs" Line="85" Column="1" />
+      <File FileName="Services/MailReader/IMailReader.cs" Line="17" Column="80" />
+      <File FileName="appsettings.json" Line="15" Column="48" />
+      <File FileName="Startup.cs" Line="37" Column="83" />
+      <File FileName="appsettings.Development.json" Line="14" Column="46" />
+      <File FileName="Services/MailReader/MailSettings.cs" Line="6" Column="43" />
+      <File FileName="Services/MailReader/MailCriteria.cs" Line="13" Column="1" />
+      <File FileName="ExtentionMethods/ServiceExtentions.cs" Line="15" Column="1" />
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="ViewModels/EmailMessage.cs" Line="8" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmailReader" expanded="True">
+            <Node name="EmailReader" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="ExtentionMethods" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="MailReader" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="EmailMessage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
